@@ -10,14 +10,14 @@ config_version=5
 
 [application]
 
-config/name="Chickensoft.GodotGame"
+config/name="HiedaCamellia.ProjectBaseGame"
 run/main_scene="res://src/Main.tscn"
 config/features=PackedStringArray("4.3", "C#", "Mobile")
 config/icon="res://icon.png"
 
 [dotnet]
 
-project/assembly_name="Chickensoft.GodotGame"
+project/assembly_name="HiedaCamellia.ProjectBaseGame"
 
 [display]
 

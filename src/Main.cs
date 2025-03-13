@@ -1,5 +1,5 @@
 //-:cnd:noEmit
-namespace Chickensoft.GodotGame;
+namespace HiedaCamellia.ProjectBaseGame;
 
 using Godot;
 using Chickensoft.GameTools.Displays;

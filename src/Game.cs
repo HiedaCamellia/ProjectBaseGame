@@ -1,4 +1,4 @@
-namespace Chickensoft.GodotGame;
+namespace HiedaCamellia.ProjectBaseGame;
 
 using Godot;
 
