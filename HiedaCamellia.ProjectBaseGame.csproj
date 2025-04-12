@@ -44,6 +44,6 @@
   <ItemGroup>
     <!-- Production dependencies go here! -->
     <PackageReference Include="Chickensoft.GameTools" Version="2.0.3"/>
-    <PackageReference Include="hiedacamellia.projectbase" Version="0.0.1-devbuild" />
+    <PackageReference Include="hiedacamellia.projectbase" Version="0.0.1-devbuild"/>
   </ItemGroup>
 </Project>
